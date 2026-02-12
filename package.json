@@ -11,7 +11,9 @@
     "dev": "npx tsx watch src/index.mts"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
